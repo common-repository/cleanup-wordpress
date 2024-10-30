@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#nisi_header1:before {
+  /*margin: 0px 10px 0 10px;*/
+  background: transparent url(../wp-content/plugins/cleanup-wordpress/img/top-right.png) scroll no-repeat top right;
+  margin-bottom: -20px;
+  height: 10px;
+  display: block;
+  border: none;
+  content: url(../wp-content/plugins/cleanup-wordpress/img/top-left.png);
+  padding: 0;
+  line-height: 0.1;
+  font-size: 1px;
+}
+
